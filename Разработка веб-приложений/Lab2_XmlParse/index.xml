@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<DATA FORMAT_VERSION="1.0">
+    <students>
+        <s_name>Daria</s_name>
+        <s_surname>Elfimova</s_surname>
+        <s_patronymic>Andreevna</s_patronymic>
+        <s_speciality>Applied Mathematics</s_speciality>
+    </students>
+    <students>
+        <s_name>Alexandra</s_name>
+        <s_surname>Shiryaeva</s_surname>
+        <s_patronymic>Vladimirovna</s_patronymic>
+        <s_speciality>Applied Mathematics</s_speciality>
+    </students>
+    <students>
+        <s_name>Yulia</s_name>
+        <s_surname>Savelieva</s_surname>
+        <s_patronymic>Sergeevna</s_patronymic>
+        <s_speciality>Applied Mathematics</s_speciality>
+    </students>
+</DATA>
