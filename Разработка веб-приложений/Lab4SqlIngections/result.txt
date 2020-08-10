@@ -1,0 +1,6 @@
+SQL-инъекции:
+select * from laws WHERE id_laws=1 OR 1=1;
+select * from laws WHERE html LIKE %депутат%; DROP TABLE laws;
+Результаты выполненения SQL-инъекций:
+SQLSTATE[22P02]: Invalid text representation: 7 ERROR:  invalid input syntax for integer: "1 OR 1=1"
+Warning!!!SQL-injection!
